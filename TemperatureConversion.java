@@ -1,5 +1,5 @@
 import java.util.*;
-public class tempConversion 
+public class TemperatureConversion
  {  
    public static void main (String args[])  
     { 
